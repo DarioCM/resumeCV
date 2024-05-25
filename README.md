@@ -1,9 +1,3 @@
-# resumeCV
-resume 
-
-
-
-
 
 
 
