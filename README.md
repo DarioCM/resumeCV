@@ -1,5 +1,39 @@
+<h3 align="center">Carlos Dario Castaneda Mendoza</h3>
+<hr>
+
+<h5>Experienced Java backend developer with 8 years of hands-on experience designing, developing, and deploying scalable and secure web applications. With a strong foundation in core Java technologies. My expertise includes microservices architecture, containerization, serverless computing, and DevOps practices. 
+
+</h5>
+
+<hr>
+
+<h6>
+
+Key skills and Expertise : 
 
 
+- Problem Solving - Data Structures and Algorithm.
+- Java - Core Java, Streams
+- WebServices - Rest, Microservices.
+- Frameworks - Spring Boot, HibernateJPA.
+- Reactive programming - Webflux
+- Database- PostgreSQL, Oracle, Mongo, 
+- Infra - Jenkins, Docker, Kubernetes
+- AWS - AWS Lambdas, Terraform
+- Testing Framework - Junit, Mockito, Selenium
+- VCS and Tools - GIT, Github, Gitlab, Jira, 
+- BuildTool - Maven, Gradle.
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws&theme=dark)](https://skillicons.dev)
+
+</h6>
+
+
+<hr>
+
+<a href="myFile.js" download>Click to Download Resume (PDF).</a>
+
+<hr>
 
 <div id="badges" align="center"><small>
   <a href="https://www.linkedin.com/in/carlos-dario-casta%C3%B1eda-mendoza-12735925/">
