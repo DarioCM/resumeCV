@@ -17,6 +17,15 @@ Experienced Java backend developer with 8 years of hands-on experience designing
 - BuildTool - Maven, Gradle.
 
 
+<hr>
+⚙ GitHub Analytics 
+<p align="center">
+<a href="https://github.com/DarioCM">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
+</a>
+</p>
+
+<hr>
 <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" download>Click to Download Resume (PDF).</a>
 
 <hr>
