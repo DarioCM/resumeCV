@@ -29,8 +29,8 @@ Experienced Java backend developer with 8 years of hands-on experience designing
 <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
 
 <hr>
-<footer>
-<div id="badges" align="center"><small>
+
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="badges" align="center"><small>
   <a href="https://www.linkedin.com/in/carlos-dario-casta%C3%B1eda-mendoza-12735925/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
@@ -48,4 +48,4 @@ Experienced Java backend developer with 8 years of hands-on experience designing
   </a>  
 </small>
 </div>
-</footer>
+
