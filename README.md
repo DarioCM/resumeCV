@@ -1,5 +1,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,idea&theme=dark)](https://skillicons.dev)
 
+<p align="right">
+<a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
+</p>
+
 ## Summary
 Experienced Java backend developer with 8 years of hands-on experience designing, developing, and deploying scalable and secure web applications. With a strong foundation in core Java technologies. My expertise includes microservices architecture, containerization, serverless computing, and DevOps practices. 
 
@@ -24,9 +28,6 @@ Experienced Java backend developer with 8 years of hands-on experience designing
 </a>
 </p>
 
-## Resume
-
-<a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
 
 <hr>
 
