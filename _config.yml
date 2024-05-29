@@ -12,3 +12,8 @@ plugins:
   - jekyll-seo-tag # Add SEO plugin
 
 email: dario20049@gmail.com # Allow visitors to contact you
+
+author:
+  name: Carlos Dario Castaneda Mendoza
+  email: dario20049@gmail.com
+  phone: 52 5585324557
