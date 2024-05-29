@@ -1,17 +1,33 @@
-title: Carlos Dario Castaneda Mendoza.  # You can add your name here
+title: Carlos Dario Castaneda Mendoza. 
+#logo: 1.png # Use a relative path to logo image
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-#logo: 1.png # Use a relative path to logo image 
-
-description: Senior Java Software Engineer. # Fix hyphenation 
-
+description: Sr Java Programmer.
 show_downloads: false # Fix spelling
-
 theme: jekyll-theme-minimal 
-
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-email: dario20049@gmail.com # Allow visitors to contact you
+# Personal info
+name: Carlos Dario Castaneda Mendoza.
+title: Sr Java Programmer.
+email: dario20049@gmail.com
+# email_title: Email (Email title override)
+phone: 52 5585324557
+# phone_title: Phone (Phone title override)
+website: https://dariocm.github.io/resumeCV/
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 author:
   name: Carlos Dario Castaneda Mendoza
