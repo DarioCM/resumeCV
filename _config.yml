@@ -27,3 +27,15 @@ author:
   name: Carlos Dario Castaneda Mendoza
   email: dario20049@gmail.com
   phone: 52 5585324557
+  social:
+    email:    mail@qwtel.com
+    rss:      https://simpled2ev.github.io/feed.xml # make sure you provide an absolute URL
+    download: https://github.com/qwtel/hydejack/archive/v8.1.1.zip
+
+hydejack:
+  dark_mode:
+    dynamic: true
+    sunrise: 6
+    sunset:  18
+    icon:    true
+    always:  false
