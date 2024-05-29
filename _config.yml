@@ -4,7 +4,7 @@ title: Carlos Dario Castaneda Mendoza.
 
 description: Sr Java Programmer.
 show_downloads: false # Fix spelling
-theme: jekyll-theme-minimal 
+#theme: jekyll-theme-minimal 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
