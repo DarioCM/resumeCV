@@ -1,4 +1,4 @@
-title: Carlos Dario Castaneda Mendoza. 
+title: Carlos Castaneda. 
 description: Sr Java Programmer.
 show_downloads: false # Fix spelling
 theme: jekyll-theme-minimal 
@@ -14,9 +14,6 @@ phone: 52 5585324557
 # phone_title: Phone (Phone title override)
 website: https://dariocm.github.io/resumeCV/
 # website_title: Web (Website title override)
-
-# Dark Mode (true/false/never)
-darkmode: true
 
 # Footer
 footer_show_references: true
