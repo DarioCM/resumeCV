@@ -46,5 +46,6 @@ Experienced Java backend developer with 8 years of hands-on experience designing
   <a href="https://github.com/DarioCM/">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#d16c06">
   </a>
+  <a href="https://api.whatsapp.com/send?phone=525585324557">Send Message</a>
 </small>
 </div>
