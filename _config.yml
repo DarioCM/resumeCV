@@ -4,6 +4,7 @@ show_downloads: false # Fix spelling
 theme: jekyll-theme-minimal 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
+logo: 1.png
 
 # Personal info
 name: Carlos Dario Castaneda Mendoza.
