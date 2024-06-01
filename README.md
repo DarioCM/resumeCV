@@ -5,21 +5,21 @@
 </p>
 
 ## Summary
-Experienced Java backend developer with 8 years of hands-on experience designing, developing, and deploying scalable and secure web applications. With a strong foundation in core Java technologies. My expertise includes microservices architecture, containerization, serverless computing, and DevOps practices. 
+Experienced Java backend developer with 8 years of hands-on experience in designing, developing, and deploying scalable and secure web applications. I possess a strong foundation in Java and expertise in microservices architecture, containerization, and serverless computing.
 
 ## Skills
-- Problem Solving - Data Structures and Algorithm.
-- Java - Core Java, Streams
-- WebServices - Rest, Microservices.
-- Frameworks - Spring Boot, HibernateJPA.
-- Reactive programming - Webflux
-- Database- PostgreSQL, Oracle, Mongo, 
-- Infra - Jenkins, Docker, Kubernetes
-- AWS - AWS Lambdas, Terraform
-- Testing Framework - Junit, Mockito, Selenium
-- VCS and Tools - GIT, Github, Gitlab, Jira, 
-- BuildTool - Maven, Gradle.
-
+- Problem Solving: Data Structures and Algorithms
+- Java: Core Java, Streams
+- Web Services: REST, SOA
+- Microservices: RESTful, gRPC, WebSocket, graphQL 
+- Frameworks: Spring Boot, Hibernate JPA
+- Reactive Programming: WebFlux
+- Databases: PostgreSQL, Oracle, MongoDB
+- Infrastructure: Jenkins, Docker, Kubernetes
+- AWS: AWS Lambda, Terraform
+- Testing Frameworks: JUnit, Mockito, Selenium
+- Version Control & Tools: Git, GitHub, GitLab, Jira
+- Build Tools: Maven, Gradle
 
 ## GitHub
 <p align="center">
