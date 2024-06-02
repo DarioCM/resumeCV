@@ -11,7 +11,8 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 - Problem Solving: Data Structures and Algorithms
 - Java: Core Java, Streams
 - Web Services: REST, SOA
-- Microservices: RESTful, gRPC, WebSocket, graphQL 
+- Microservices: RESTful, gRPC, WebSocket, graphQL
+- API Documentation: Swagger, OpenAPI
 - Frameworks: Spring Boot, Hibernate JPA
 - Reactive Programming: WebFlux
 - Databases: PostgreSQL, Oracle, MongoDB
