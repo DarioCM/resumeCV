@@ -34,7 +34,7 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 <hr>
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="badges" align="center"><small>
-  <a href="https://www.linkedin.com/in/carlos-dario-casta%C3%B1eda-mendoza-12735925/">
+  <a href="https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
   <a href="mailto:dario20049@gmail.com">
