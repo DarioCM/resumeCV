@@ -4,24 +4,33 @@
 <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
 </p>
 
-## Summary
-Experienced Java backend developer with 8 years of hands-on experience in designing, developing, and deploying scalable and secure web applications. I possess a strong foundation in Java and expertise in microservices architecture, containerization, and serverless computing.
+## Summary:
+Experienced Java backend developer with 8 years of hands-on experience in designing, developing, and deploying scalable and secure web applications. I'm a seasoned Java Software Engineer with extensive expertise in Java, Spring Boot, and cloud services (AWS, GCP). Over the years, I have honed my skills in developing robust applications, designing microservices architectures, and optimizing cloud deployments through containerization and serverless computing.
 
-## Skills
-- Problem Solving: Data Structures and Algorithms
-- Java: Core Java, Streams
-- Web Services: REST, SOA
-- Microservices: RESTful, gRPC, WebSocket, graphQL
-- Event-Driven Communication: Kafka
-- API Documentation: Swagger, OpenAPI
-- Frameworks: Spring Boot, Hibernate JPA
-- Reactive Programming: WebFlux
-- Databases: PostgreSQL, Oracle, MongoDB
-- Infrastructure: Jenkins, Docker, Kubernetes
-- AWS: AWS Lambda, Terraform
-- Testing Frameworks: JUnit, Mockito, Selenium
-- Version Control & Tools: Git, GitHub, GitLab, Jira
-- Build Tools: Maven, Gradle
+## Skills:
+|     |     |
+|:----|:----|
+|Programming Languages:| **Java**|
+|API Development:| **RESTful, gRPC, WebSocket, graphQL**|
+|API Documentation:| **Swagger, OpenAPI**|
+|Event-Driven Communication:| **Kafka**|
+|Frameworks:| **Spring Boot, Angular**|
+|Authentication:| **JWT, OAuth 2.0**|
+|Databases:| **PostgreSQL, Oracle, MongoDB**|
+|Infrastructure:| **Jenkins, Docker, Kubernetes**|
+|Cloud:| **AWS, GCP, Terraform**|
+|Testing Frameworks:| **JUnit, Mockito, Selenium**|
+|Version Control & Tools:| **Git, GitHub, GitLab, Jira**|
+|Build Tools:| **Maven, Gradle**|
+
+## Education			        		
+- **B.Sc.**, Computer Sicience | Instituto Politécnico Nacional (2011-2015)
+
+## Technical Expertise:
+- Java: Advanced proficiency in Java with a focus on high-performance applications.
+- Spring Boot: Expert in creating microservices and RESTful APIs.
+- Cloud Services: Skilled in AWS and GCP for deploying and managing cloud-native applications.
+- DevOps: Experience with CI/CD pipelines, Docker, and Kubernetes.
 
 ## GitHub
 <p align="center">
