@@ -8,23 +8,22 @@
 Experienced Java backend developer with 8 years of hands-on experience in designing, developing, and deploying scalable and secure web applications. I'm a seasoned Java Software Engineer with extensive expertise in Java, Spring Boot, and cloud services (AWS, GCP). Over the years, I have honed my skills in developing robust applications, designing microservices architectures, and optimizing cloud deployments through containerization and serverless computing.
 
 ## Skills:
-|     |     |
-|:----|:----|
-|Programming Languages:| **Java**|
-|API Development:| **RESTful, gRPC, WebSocket, graphQL**|
-|API Documentation:| **Swagger, OpenAPI**|
-|Event-Driven Communication:| **Kafka**|
-|Frameworks:| **Spring Boot, Angular**|
-|Authentication:| **JWT, OAuth 2.0**|
-|Databases:| **PostgreSQL, Oracle, MongoDB**|
-|Infrastructure:| **Jenkins, Docker, Kubernetes**|
-|Cloud:| **AWS, GCP, Terraform**|
-|Testing Frameworks:| **JUnit, Mockito, Selenium**|
-|Version Control & Tools:| **Git, GitHub, GitLab, Jira**|
-|Build Tools:| **Maven, Gradle**|
+- Programming Languages: **Java**
+- API Development: **RESTful, gRPC, WebSocket, graphQL**
+- API Documentation: **Swagger, OpenAPI**
+- Event-Driven Communication: **Kafka**
+- Frameworks: **Spring Boot, Angular**
+- Authentication: **JWT, OAuth 2.0**
+- Databases: **PostgreSQL, Oracle, MongoDB**
+- Infrastructure: **Jenkins, Docker, Kubernetes**
+- Cloud: **AWS, GCP, Terraform**
+- Testing Frameworks: **JUnit, Mockito, Selenium**
+- Version Control & Tools: **Git, GitHub, GitLab, Jira**
+- Build Tools: **Maven, Gradle**
 
 ## Education			        		
-- **B.Sc.**, Computer Sicience | Instituto Politécnico Nacional (2011-2015)
+**B.Sc.**, Computer Sicience
+- Instituto Politécnico Nacional (2011-2015)
 
 ## Technical Expertise:
 - Java: Advanced proficiency in Java with a focus on high-performance applications.
