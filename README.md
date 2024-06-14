@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,idea&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,gradle,gcp,idea,aws&theme=dark)](https://skillicons.dev)
 
 <p align="right">
 <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
