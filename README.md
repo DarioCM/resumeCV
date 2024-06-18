@@ -3,6 +3,7 @@
 <p align="right">
 <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
 
 ## Summary:
 Experienced Java backend developer with 8 years of hands-on experience in designing, developing, and deploying scalable and secure web applications. I'm a seasoned Java Software Engineer with extensive expertise in Java, Spring Boot, and cloud services (AWS, GCP). Over the years, I have honed my skills in developing robust applications, designing microservices architectures, and optimizing cloud deployments through containerization and serverless computing.
@@ -64,6 +65,4 @@ B.Sc., Computer Sicience
   </a> -->
 </small>
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
 
