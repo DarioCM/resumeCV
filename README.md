@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,gradle,gcp,idea,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,docker,kubernetes,gradle,gcp,go,js&theme=dark)](https://skillicons.dev)
 
 <p align="right">
 <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
@@ -8,11 +8,11 @@
 Experienced Java backend developer with 8 years of hands-on experience in designing, developing, and deploying scalable and secure web applications. I'm a seasoned Java Software Engineer with extensive expertise in Java, Spring Boot, and cloud services (AWS, GCP). Over the years, I have honed my skills in developing robust applications, designing microservices architectures, and optimizing cloud deployments through containerization and serverless computing.
 
 ## Skills:
-- Programming Languages: Java
+- Programming Languages: Java, TypeScript, Go
 - API Development: RESTful, gRPC, WebSocket, graphQL
 - API Documentation: Swagger, OpenAPI
 - Event-Driven Communication: Kafka
-- Frameworks: Spring Boot, Angular
+- Frameworks: Spring Boot, Angular, jQuery
 - Authentication: JWT, OAuth 2.0
 - Databases: PostgreSQL, Oracle, MongoDB
 - Infrastructure: Jenkins, Docker, Kubernetes
