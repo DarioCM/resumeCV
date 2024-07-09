@@ -10,10 +10,8 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 ## Skills:
 - Programming Languages: Java, TypeScript, Go
 - API Development: RESTful, gRPC, WebSocket, graphQL
-- API Documentation: Swagger, OpenAPI
 - Event-Driven Communication: Kafka
-- Frameworks: Spring Boot, Angular, jQuery
-- Authentication: JWT, OAuth 2.0
+- Frameworks: Spring Boot, Spring WebFlux, Angular, jQuery
 - Databases: PostgreSQL, Oracle, MongoDB
 - Infrastructure: Jenkins, Docker, Kubernetes, OpenShift
 - Cloud: AWS, GCP, Terraform
