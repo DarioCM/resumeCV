@@ -15,7 +15,7 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 - Frameworks: Spring Boot, Angular, jQuery
 - Authentication: JWT, OAuth 2.0
 - Databases: PostgreSQL, Oracle, MongoDB
-- Infrastructure: Jenkins, Docker, Kubernetes
+- Infrastructure: Jenkins, Docker, Kubernetes, OpenShift
 - Cloud: AWS, GCP, Terraform
 - Testing Frameworks: JUnit, Mockito, Selenium
 - Version Control & Tools: Git, GitHub, GitLab, Jira
