@@ -13,7 +13,7 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 - Event-Driven Communication: Kafka
 - Frameworks: Spring Boot, Spring WebFlux, Angular, jQuery
 - Databases: PostgreSQL, Oracle, MongoDB
-- Infrastructure: Jenkins, Docker, Kubernetes, OpenShift
+- Infrastructure: Jenkins, Docker, Kubernetes, OpenShift, Helm
 - Cloud: AWS, GCP, Terraform
 - Testing Frameworks: JUnit, Mockito, Selenium
 - Version Control & Tools: Git, GitHub, GitLab, Jira
