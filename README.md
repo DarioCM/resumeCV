@@ -23,6 +23,11 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 B.Sc., Computer Sicience
 - Instituto Politécnico Nacional (2011-2015)
 
+## Certifications and Courses 
+### Building Scalable Java Microservices with Spring Boot and Spring Cloud
+![Google Cloud Badge](https://www.cloudskillsboost.google/public_profiles/9f9df24e-f0e3-44ca-ba00-58a21c93a8b2/badges/9832641)
+[View Certificate](https://www.cloudskillsboost.google/public_profiles/9f9df24e-f0e3-44ca-ba00-58a21c93a8b2/badges/9832641)
+
 ## Technical Expertise:
 - Java: Advanced proficiency in Java with a focus on high-performance applications.
 - Spring Boot: Expert in creating microservices and RESTful APIs.
