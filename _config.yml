@@ -4,7 +4,7 @@ show_downloads: false # Fix spelling
 theme: jekyll-theme-minimal 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
-logo: 1.png
+logo: DSCF7973.JPG
 
 # Personal info
 name: Carlos Dario Castaneda Mendoza.
