@@ -1,5 +1,5 @@
 title: Carlos Castañeda 
-description: Senior Java Software Engineer | Microservices Architecture | Cloud Services (AWS, GCP) | Spring Boot Expert | Go | 다리오 • 达里奥         
+description: Senior Java Software Engineer | Microservices Architecture | Cloud Services (AWS, GCP) | Spring Boot Expert | Go          
 show_downloads: false # Fix spelling
 theme: jekyll-theme-minimal 
 plugins:
@@ -28,7 +28,7 @@ author:
   email: dario20049@gmail.com
   phone: 52 5585324557
   social:
-    email:    mail@qwtel.com
+    email:    dario20049@gmail.com
     rss:      https://simpled2ev.github.io/feed.xml # make sure you provide an absolute URL
     download: https://github.com/qwtel/hydejack/archive/v8.1.1.zip
 
