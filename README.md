@@ -34,13 +34,13 @@ B.Sc., Computer Sicience
 - DevOps: Experience with CI/CD pipelines, Docker, and Kubernetes.
 
 ## GitHub
-<p align="center">
-   <a href="https://github.com/DarioCM">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCM&theme=nord&hide_border=false&langs_count=5" alt="Languages" />
-  </a>
+<p align="center">  
 <a href="https://github.com/DarioCM">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
 </a>
+   <a href="https://github.com/DarioCM">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCM&theme=nord&hide_border=false&langs_count=5" alt="Languages" />
+  </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
 
