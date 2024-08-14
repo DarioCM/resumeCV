@@ -11,12 +11,12 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 - Programming Languages: Java, TypeScript, Go
 - API Development: RESTful, gRPC, WebSocket, graphQL
 - Event-Driven Communication: Kafka, Avro
-- Frameworks: Spring Boot, Spring WebFlux, Angular, jQuery
-- Databases: PostgreSQL, Oracle, MongoDB
-- Infrastructure: Jenkins, Docker, Kubernetes, OpenShift, Helm
-- Cloud: AWS, GCP, Terraform
-- Testing Frameworks: JUnit, Mockito, Selenium
-- Version Control & Tools: Git, GitHub, GitLab, Jira
+- Frameworks: Spring Boot, Angular, jQuery
+- Databases: Oracle, MySQL, PostgreSQL, MongoDB
+- Infrastructure: Dockers, Kubernetes, Helm, OpenShift
+- Cloud AWS, GCP, Terraform
+- Testing Frameworks JUnit, Mockito, Selenium
+- Version Control & Tools Git
 - Build Tools: Maven, Gradle
 
 ## Education			        		
