@@ -50,11 +50,13 @@ B.Sc., Computer Sicience
   </a>
   -->
 
+## Resume Download
+Interested in learning more about my professional experience? Download my resume for detailed insights into my skills, projects, and achievements.
+<p align="left">
+  <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="download-btn" download>Download My Resume</a>
+</p>
 
-
-
-<hr>
-
+## Contact & Social Links
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="badges" align="center">
   
   <small>
@@ -76,8 +78,8 @@ B.Sc., Computer Sicience
     <img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   -->
+  
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
    
 </small>
 </div>
-
