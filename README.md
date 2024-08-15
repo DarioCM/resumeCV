@@ -48,7 +48,7 @@ B.Sc., Computer Sicience
     <a href="https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
     </a>
-    <a href="mailto:dario20049@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:dario20049@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
     </a>
     <a href="https://medium.com/@dario_85947" target="_blank" rel="noopener noreferrer">
