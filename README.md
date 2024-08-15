@@ -1,7 +1,9 @@
 [![My Skills](https://skillicons.dev/icons?i=go,java,spring,kafka,docker,kubernetes,gradle,gcp,aws&theme=dark)](https://skillicons.dev)
 
 <p align="right">
-<a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="button" download>Click to Download Resume (PDF).</a>
+  <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf">
+    <img src="https://img.shields.io/badge/Click%20to%20Download%20Resume-000000">
+  </a>
 </p>
 
 ## Summary:
@@ -39,22 +41,17 @@ B.Sc., Computer Sicience
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
   </a>
 </p>
+ <!-- 
 <p align="center">  
   <a href="https://github.com/DarioCM/">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#d16c06"> 
   </a>
 </p>
-  <!-- 
+ 
    <a href="https://github.com/DarioCM">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCM&theme=nord&hide_border=false&langs_count=5" alt="Languages" />
   </a>
   -->
-
-## Resume Download
-Interested in learning more about my professional experience? Download my resume for detailed insights into my skills, projects, and achievements.
-<p align="left">
-  <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" class="download-btn" download>Download My Resume</a>
-</p>
 
 ## Contact & Social Links
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="badges" align="center">
