@@ -1,8 +1,8 @@
 [![My Skills](https://skillicons.dev/icons?i=go,java,spring,kafka,docker,kubernetes,gradle,gcp,aws&theme=dark)](https://skillicons.dev)
 
 <p align="right">
-  <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf">
-    <img src="https://img.shields.io/badge/Click%20to%20Download%20Resume-000000">
+  <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Click%20to%20Download%20Resume-0FE6FA">
   </a>
 </p>
 
@@ -64,6 +64,7 @@ B.Sc., Computer Sicience
   </a>
   -->
   
+  <hr>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
    
 </small>
