@@ -34,17 +34,21 @@ B.Sc., Computer Sicience
 - DevOps: Experience with CI/CD pipelines, Docker, and Kubernetes.
 
 ## GitHub
+<p align="center">  
+  <a href="https://github.com/DarioCM">  
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
+  </a>
 </p>
 <p align="center">  
-<a href="https://github.com/DarioCM">  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
-</a>
+  <a href="https://github.com/DarioCM/">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#d16c06"> 
+  </a>
+</p>
   <!-- 
    <a href="https://github.com/DarioCM">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCM&theme=nord&hide_border=false&langs_count=5" alt="Languages" />
   </a>
   -->
-</p>
 
 
 
@@ -65,10 +69,7 @@ B.Sc., Computer Sicience
     </a>
     <a href="https://leetcode.com/u/DarioCM/">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    </a>
-    <a href="https://github.com/DarioCM/">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#d16c06"> 
-    </a> 
+    </a>    
     
   <!-- 
   <a href="https://wa.me/525585324557" title="Whatsapp">
