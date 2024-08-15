@@ -41,21 +41,9 @@ B.Sc., Computer Sicience
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
   </a>
 </p>
- <!-- 
-<p align="center">  
-  <a href="https://github.com/DarioCM/">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=#d16c06"> 
-  </a>
-</p>
- 
-   <a href="https://github.com/DarioCM">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCM&theme=nord&hide_border=false&langs_count=5" alt="Languages" />
-  </a>
-  -->
 
-## Contact & Social Links
-<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="badges" align="center">
-  
+<hr>
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="badges" align="center">  
   <small>
     <a href="https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/">
       <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
