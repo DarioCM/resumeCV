@@ -71,6 +71,8 @@ Experienced Java backend developer with 8 years of hands-on experience in design
   </small>
 </div>
 
+<hr>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
 
 
 <hr>
@@ -82,5 +84,4 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 </small>
 </div>
 
- <hr>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
+ 
