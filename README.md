@@ -79,7 +79,7 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="contact" align="right">  
 <p>📞 Contact</p>
 <small>
-<a href="mailto:dario20049@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+<a href="mailto:carlos.castaneda.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
 <a href="https://wa.me/525585324557" title="Whatsapp" target="_blank" rel="noopener noreferrer"> <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </small>
 </div>
