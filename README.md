@@ -84,4 +84,11 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 </small>
 </div>
 
+<div class="contact-info">
+    <p><strong>Email:</strong> carlos.castaneda.dev@gmail.com</p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/">LinkedIn Profile</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/DarioCM">GitHub Profile</a></p>
+    <p><strong>Location:</strong> Guadalajara, Mexico</p>
+</div>
+
  
