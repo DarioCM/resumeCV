@@ -168,3 +168,18 @@ section:last-child{
 .resume-download button:hover {
     background-color: #45a049;
 }
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+}
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 5px;
+}
+footer a:hover {
+    text-decoration: underline;
+}
