@@ -145,15 +145,14 @@ section:last-child{
             background-color: #0056b3;
 }
 
-.contact-info p {
-    margin: 5px 0;
-    font-size: 14px;
+.contact-info {
+    padding: 5px;
 }
 
 .contact-info p {
-    margin: 2px 0; /* Reduces the space between lines */
-    line-height: 1.2; /* Adjusts line height for a more compact look */
-    font-size: 14px; /* Optional: Adjust font size for a smaller look */
+    margin: 1px 0;
+    line-height: 1.1;
+    font-size: 13px;
 }
 
 .resume-download button {
