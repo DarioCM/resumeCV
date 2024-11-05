@@ -71,10 +71,7 @@ Experienced Java backend developer with 8 years of hands-on experience in design
   </small>
 </div>
 
-<hr>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
-
-
+<!--
 <hr>
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="contact" align="right">  
 <p>📞 Contact</p>
@@ -83,12 +80,18 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 <a href="https://wa.me/525585324557" title="Whatsapp" target="_blank" rel="noopener noreferrer"> <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </small>
 </div>
+-->
 
-<div class="contact-info">
+<hr>
+<div class="contact-info" align="right">
+  <p>📞 Contact</p>
+  <small>
     <p><strong>Email:</strong> carlos.castaneda.dev@gmail.com</p>
     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/">LinkedIn Profile</a></p>
     <p><strong>GitHub:</strong> <a href="https://github.com/DarioCM">GitHub Profile</a></p>
     <p><strong>Location:</strong> Guadalajara, Mexico</p>
+  </small>
 </div>
 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
  
