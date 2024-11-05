@@ -154,3 +154,17 @@ section:last-child{
     font-weight: bold;
     color: #333;
 }
+
+.resume-download button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.resume-download button:hover {
+    background-color: #45a049;
+}
