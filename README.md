@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)
 [![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe)](https://github.com/DarioCM/resumeCV/raw/main/Resume-Carlos-Dario-Castaneda-Mendoza.pdf)
----
 
-## Summary
+
+## 👤 Summary
 
 Experienced Java backend developer with 9 years of hands-on experience in designing, developing, and deploying scalable and secure web applications. I'm a seasoned Java Software Engineer with extensive expertise in Java, Spring Boot, and cloud services (AWS, GCP). Over the years, I have honed my skills in developing robust applications, designing microservices architectures, and optimizing cloud deployments through containerization and serverless computing.
 
@@ -13,29 +13,16 @@ Experienced Java backend developer with 9 years of hands-on experience in design
 
 ## 🛠 Skills
 
-### Programming Languages
-- **Java**, **TypeScript**, **Go**
-
-### Frameworks and Libraries
-- **Spring Boot**, **Angular**, **React**, **Thymeleaf**, **jQuery**
-
-### API Development
-- **RESTful**, **gRPC**, **WebSocket**, **GraphQL**
-
-### Databases
-- **Oracle**, **MySQL**, **PostgreSQL**, **MongoDB**, **Cassandra**, **Redis**
-
-### Infrastructure & Tools
-- **Docker**, **Kubernetes**, **Helm**, **OpenShift**
-
-### Cloud & DevOps
-- **AWS**, **GCP**, **Azure**, **Terraform**
-
-### Version Control & CI/CD
-- **Git**, **GitLab**, **Jira**
-
-### Testing Frameworks
-- **JUnit**, **Mockito**, **Selenium**
+- Programming Languages: **Java, TypeScript, Go**
+- API Development: **RESTful, gRPC, WebSocket, graphQL**
+- Event-Driven Communication: **Kafka, Avro**
+- Frameworks: **Spring Boot, Angular, React, Thymeleaf**
+- Databases: **Oracle, MySQL, PostgreSQL, MongoDB**
+- Infrastructure: **Dockers, Kubernetes, Helm, OpenShift**
+- Cloud: **AWS, GCP, Terraform**
+- Testing Frameworks: **JUnit, Mockito, Selenium**
+- Version Control & Tools: **Git, GitLab, Jira**
+- Build Tools: **Maven, Gradle**
 
 ---
 
