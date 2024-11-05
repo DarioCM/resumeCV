@@ -52,7 +52,7 @@ Experienced Java backend developer with 8 years of hands-on experience in design
         <button>Click to Download Resume (PDF)</button>
     </a>
 </div>
-
+<br>
 
 <!--
 <hr>
