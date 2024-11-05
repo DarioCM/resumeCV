@@ -44,9 +44,15 @@ Experienced Java backend developer with 8 years of hands-on experience in design
   </a>
 </p>
 
+## Download Full Resume
+<div class="resume-download">
+    <a href="path/to/your/resume.pdf" download="Carlos_Castaneda_Resume.pdf">
+        <button>Click to Download Resume (PDF)</button>
+    </a>
+</div>
 
 
-
+<!--
 <hr>
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray" id="badges" align="center">  
   <small>
@@ -61,15 +67,13 @@ Experienced Java backend developer with 8 years of hands-on experience in design
     </a>
     <a href="https://leetcode.com/u/DarioCM/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-    </a>    
-    
-  <!-- 
+    </a>     
   <a href="https://wa.me/525585324557" title="Whatsapp" target="_blank" rel="noopener noreferrer">
     <img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  -->
+  </a>  
   </small>
 </div>
+-->
 
 <!--
 <hr>
@@ -93,5 +97,5 @@ Experienced Java backend developer with 8 years of hands-on experience in design
   </small>
 </div>
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
  
