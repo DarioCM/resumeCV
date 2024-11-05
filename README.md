@@ -47,10 +47,10 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 </p>
 
 ## Download Full Resume
-<div class="resume-download">
-    <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" download="Carlos_Castaneda_Resume.pdf">
-        <button>Click to Download Resume (PDF)</button>
-    </a>
+<div class="resume-download" align="center">
+  <a href="Resume-Carlos-Dario-Castaneda-Mendoza.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Download%20Resume-007acc?style=for-the-badge&logo=download&logoColor=white&labelColor=005fa3">
+  </a>
 </div>
 <br>
 
