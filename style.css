@@ -144,3 +144,13 @@ section:last-child{
 .download-btn:hover {
             background-color: #0056b3;
 }
+
+.contact-info p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.contact-info p strong {
+    font-weight: bold;
+    color: #333;
+}
