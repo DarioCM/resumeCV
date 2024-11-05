@@ -18,7 +18,7 @@ Experienced Java backend developer with 8 years of hands-on experience in design
 - Infrastructure: **Dockers, Kubernetes, Helm, OpenShift**
 - Cloud: **AWS, GCP, Terraform**
 - Testing Frameworks: **JUnit, Mockito, Selenium**
-- Version Control & Tools: **Git**
+- Version Control & Tools: **Git, GitLab, Jira**
 - Build Tools: **Maven, Gradle**
 
 ## Education			        		
