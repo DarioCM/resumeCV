@@ -156,18 +156,22 @@ section:last-child{
 }
 
 .resume-download button {
-    background-color: #4CAF50;
+    background-color: #007acc; /* Matches the blue accent on GitHub Pages */
     color: white;
     padding: 10px 20px;
     font-size: 16px;
     border: none;
-    border-radius: 5px;
+    border-radius: 4px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: Arial, sans-serif;
 }
 
 .resume-download button:hover {
-    background-color: #45a049;
+    background-color: #005fa3; /* Darker shade for hover */
+    text-decoration: none;
 }
+
 footer {
     background-color: #333;
     color: #fff;
