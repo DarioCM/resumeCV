@@ -1,7 +1,5 @@
 # Carlos Dario Castaneda Mendoza
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)
 [![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe)](https://github.com/DarioCM/resumeCV/raw/main/Resume-Carlos-Dario-Castaneda-Mendoza.pdf)
 
 
@@ -82,6 +80,12 @@ Experienced Java backend developer with 9 years of hands-on experience in design
 - **Email**: carlos.castaneda.dev@gmail.com
 - **LinkedIn**: [Carlos Dario Castaneda Mendoza](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
 - **Location**: Guadalajara, Mexico
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Follow-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/your_hackerrank_profile)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium)](https://medium.com/@your_medium_profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your_leetcode_profile)
 
 ---
 <p align="right">
