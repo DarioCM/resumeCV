@@ -150,9 +150,10 @@ section:last-child{
     font-size: 14px;
 }
 
-.contact-info p strong {
-    font-weight: bold;
-    color: #333;
+.contact-info p {
+    margin: 2px 0; /* Reduces the space between lines */
+    line-height: 1.2; /* Adjusts line height for a more compact look */
+    font-size: 14px; /* Optional: Adjust font size for a smaller look */
 }
 
 .resume-download button {
