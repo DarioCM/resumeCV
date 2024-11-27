@@ -13,7 +13,7 @@ Experienced Java backend developer with 9 years of hands-on experience in design
 
 - Programming Languages: **Java, TypeScript, Go**
 - API Development: **RESTful, WebSocket, graphQL**
-- Event-Driven Communication: **Kafka, Avro**
+- Event-Driven Communication: **Kafka, Avro, Solace**
 - Frameworks: **Spring Boot, Angular, React, Thymeleaf**
 - Databases: **Oracle, MySQL, PostgreSQL, MongoDB, Cassandra**
 - Infrastructure: **Dockers, Kubernetes, Helm, OpenShift**
