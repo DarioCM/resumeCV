@@ -12,7 +12,7 @@ Experienced Java backend developer with 9 years of hands-on experience in design
 ## 🛠 Skills
 
 - Programming Languages: **Java, TypeScript, Go**
-- API Development: **RESTful, WebSocket, graphQL**
+- API Development: **RESTful, WebSocket, graphQL, SOAP**
 - Messaging & Integration: **Kafka, Solace**
 - Frameworks: **Spring Boot, Angular, React, Thymeleaf**
 - Databases: **Oracle, MySQL, PostgreSQL, MongoDB, Cassandra**
