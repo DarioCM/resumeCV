@@ -5,13 +5,7 @@
 
 ## 👤 Summary
 
-I am a seasoned software engineer with over 9 years of experience specializing in Java and Spring Boot.  
-
-My expertise lies in designing and developing scalable microservices, optimizing deployments using Kubernetes and Docker, and driving performance improvements through reactive programming and event-driven architectures. With a strong foundation in containerization and event-driven systems, I am passionate about building robust, secure, and efficient applications that solve complex business challenges.  
-
-I am relocating to the **Jacksonville Metropolitan Area, Florida, USA, in March 2025**, and I hold a **Green Card**, allowing me to work in the United States without restrictions.  
-
-I thrive on innovation, continuously seeking opportunities to leverage cutting-edge technologies to deliver impactful solutions.  
+I am a seasoned software engineer with over 9 years of experience specializing in Java and Spring Boot. My expertise lies in designing and developing scalable microservices, optimizing deployments using Kubernetes and Docker, and driving performance improvements through reactive programming and event-driven architectures. I am relocating to the Jacksonville Metropolitan Area, Florida, USA, in March 2025, and I hold a Green Card, allowing me to work in the United States without restrictions.
 
 ---
 
