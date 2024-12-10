@@ -77,7 +77,7 @@ Experienced Java backend developer with 9 years of hands-on experience in design
 
 - **Email**: carlos.castaneda.dev@gmail.com
 - **LinkedIn**: [Carlos Dario Castaneda Mendoza](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
-- **Location**: Guadalajara, Mexico
+- **Location**: Relocating to the Jacksonville Metropolitan Area, Florida, USA (March 2025)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)
