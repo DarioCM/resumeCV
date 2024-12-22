@@ -11,39 +11,50 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 
 ## 🛠 Skills
 
-- Programming Languages: **Java, TypeScript, Go**
-- Frameworks: **Spring, Spring Boot, Spring MVC, Angular, React, Thymeleaf**
-- API Development: **RESTful, gRPC, WebSocket, GraphQL, OAuth2**
-- Messaging & Integration: **Kafka**
-- Databases: **Oracle, MySQL, PostgreSQL, MongoDB, Redis**
-- Cloud & Infrastructure: **AWS, GCP, Docker, Kubernetes, Helm, OpenShift**
-- Version Control & Tools: **Git, GitLab, Jira, IntelliJ IDEA, VS Code**
-- Testing Frameworks: **JUnit, Mockito, Selenium**
+- Programming: **Java, TypeScript, Go**
+- Frameworks: **Spring Boot, Spring MVC, Angular, React, Thymeleaf**
+- API Development: **RESTful, WebSocket, GraphQL, OpenAPI**
+- Databases: **Oracle, MySQL, PostgreSQL, MongoDB, Redis, Cassandra**
+- Cloud & Infrastructure: **Docker, Kubernetes, OpenShift, Helm, GCP**
+- Testing & Tools: **JUnit, Mockito, Selenium, Git, GitLab, Jira**
 
 ---
 
 ## 💼 Professional Experience
 
-### IBM – Senior Java Developer
-**Duration**: 2018 – Present  
-**Location**: Remote  
-**Responsibilities**:
-- Designed and developed microservices-based architecture for high-transaction applications using Java and Spring Boot.
-- Integrated Kafka and other messaging systems to create event-driven architectures.
-- Optimized SQL queries in Oracle DB, reducing processing time by 15%.
-  
-**Technologies**: Java, Spring Boot, Kafka, Oracle, Docker, Kubernetes
+### IBM – USAA | Java and Web Technologies  
+**Mexico - USA | October 2021 - Present**  
 
-### EDICOM – Java Developer
-**Duration**: 2015 – 2018  
-**Location**: Mexico City, Mexico  
-**Responsibilities**:
-- Migrated legacy monolithic systems to microservices using Spring Boot.
-- Created REST and SOAP APIs for client systems, enhancing security and performance.
-- Implemented frontend features with Angular and Thymeleaf for dynamic server-side rendering.
+#### Project: Unified Kafka Consumer for ETL  
+- Consolidated multiple Kafka clients into a unified consumer to simplify API integration for user profiles.  
+- Developed the persistence layer with DB2 and ensured reliability with JUnit and Postman testing.  
+- Deployed to OpenShift using Helm, enabling efficient scaling and performance monitoring.  
+**Technologies**: Java, Spring Boot, Kafka, DB2, Helm, OpenShift  
 
-**Technologies**: Java, Spring Boot, Angular, Thymeleaf, Oracle, Docker
+#### Project: API Upgrades and Security Enhancements  
+- Migrated legacy APIs to Java 17 and upgraded to Spring Boot 3 for enhanced security and performance.  
+- Refactored codebase and resolved vulnerabilities identified by Twistlock, ensuring compliance with security standards.  
+**Technologies**: Java, Spring Boot 3, Twistlock  
 
+---
+
+### EDICOM | Software Engineer → Team Leader  
+**Mexico | June 2018 - October 2021**  
+
+#### Project: Electronic Invoicing and Payroll Systems  
+- Led the migration of a monolithic architecture to microservices using Spring Boot.  
+- Implemented secure APIs with cryptographic methods, ensuring compliance with SAT regulations.  
+- Upgraded the user interface using Angular and optimized backend queries with Elasticsearch for faster performance.  
+- Developed and maintained SOAP-based services using JAX-RS for SaaS applications.  
+**Technologies**: Java, Spring Boot, Angular, Elasticsearch, JAX-RS, SOAP, SaaS  
+
+---
+
+### Earlier Experience  
+**Mexico, Spain | May 2015 - June 2018**  
+- **INTERALIA (Coca Cola)**: Developed secure APIs and interactive components using Spring, Hibernate, and JQuery.  
+- **BASSOL (Banamex Citi)**: Created PAY/COB modules with JSP, Spring, and Hibernate.  
+- **ISBAN (Santander)**: Migrated BancaSphere platform components and implemented backend solutions using WebSphere and JDBC.  
 ---
 
 ## 📂 Projects
