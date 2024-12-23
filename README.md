@@ -54,7 +54,8 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 **Mexico, Spain | May 2015 - June 2018**  
 - INTERALIA (Coca Cola) : Developed secure APIs and interactive components using Spring, Hibernate, and JQuery.  
 - BASSOL (Banamex Citi) : Created PAY/COB modules with JSP, Spring, and Hibernate.  
-- ISBAN (Santander) : Migrated BancaSphere platform components and implemented backend solutions using WebSphere and JDBC.  
+- Santander : Migrated BancaSphere platform components and implemented backend solutions using WebSphere and JDBC.  
+
 ---
 
 ## 📂 Projects
