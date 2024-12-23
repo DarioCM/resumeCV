@@ -67,6 +67,25 @@ I am a seasoned software engineer with over 9 years of experience specializing i
   </a>
 </p>
 
+## GastroTrack API
+
+**GastroTrack API** is a backend application designed to help individuals with gastritis track food intake and symptoms, identify triggers, and improve dietary habits. This project showcases my skills in building scalable APIs and modern backend systems.
+
+### Technologies
+- **Backend:** Java 17, Spring Boot, PostgreSQL, Redis
+- **Tools:** Docker Compose, Log4j2, Lombok
+
+### Features
+- RESTful APIs for meal and symptom tracking
+- Redis caching for fast data retrieval
+- Scalable architecture with PostgreSQL for structured data storage
+
+### Repository
+[View on GitHub](https://github.com/DarioCM/gastrotrack-api)
+
+### Disclaimer
+This project is for demonstration purposes only. Unauthorized use or redistribution is prohibited.
+
 ---
 
 ## 🎓 Education
