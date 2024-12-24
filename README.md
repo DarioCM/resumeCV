@@ -35,7 +35,7 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 #### Project: API Upgrades and Security Enhancements  
 - Migrated legacy APIs to Java 17 and upgraded to Spring Boot 3 for enhanced security and performance.  
 - Refactored codebase and resolved vulnerabilities identified by Twistlock, ensuring compliance with security standards.  
-**Technologies**: Java, Spring Boot 3, Twistlock  
+**Technologies**: Java, Spring Boot, Twistlock  
 
 ---
 
