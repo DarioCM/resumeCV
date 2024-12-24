@@ -12,8 +12,8 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 ## 🛠 Skills
 
 - Programming: **Java, TypeScript, Go**
-- Frameworks: **Spring Boot, Spring MVC, Angular, React, Thymeleaf**
-- API Development: **RESTful, WebSocket, GraphQL, OpenAPI**
+- Frameworks: **Spring, Spring Boot, Spring MVC, Angular, React, Thymeleaf**
+- API Development: **RESTful, WebSocket, GraphQL, OpenAPI, Swagger**
 - Databases: **Oracle, MySQL, PostgreSQL, MongoDB, Redis, Cassandra**
 - Cloud & Infrastructure: **Docker, Kubernetes, OpenShift, Helm, GCP**
 - Testing & Tools: **JUnit, Mockito, Selenium, Git, GitLab, Jira**
@@ -73,7 +73,7 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 
 ### Technologies
 - **Backend:** Java 17, Spring Boot, PostgreSQL, Redis
-- **Tools:** Docker Compose, Log4j2, Lombok
+- **Tools:** Docker Compose, Log4j2, Lombok, OpenAPI, Swagger
 
 ### Features
 - RESTful APIs for meal and symptom tracking
