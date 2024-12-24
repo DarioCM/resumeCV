@@ -17,6 +17,7 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 - Databases: **Oracle, MySQL, PostgreSQL, MongoDB, Redis, Cassandra**
 - Cloud & Infrastructure: **Docker, Kubernetes, OpenShift, Helm, GCP**
 - Testing & Tools: **JUnit, Mockito, Selenium, Git, GitLab, Jira**
+- Build Tools: **Maven, Gradle**
 
 ---
 
