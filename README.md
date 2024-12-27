@@ -11,13 +11,36 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 
 ## 🛠 Skills
 
-- Programming: **Java, TypeScript, Go**
-- Frameworks: **Spring, Spring Boot, Spring MVC, Angular, React, Thymeleaf**
-- API Development: **RESTful, WebSocket, GraphQL, OpenAPI, Swagger**
-- Databases: **Oracle, MySQL, PostgreSQL, MongoDB, Redis, Cassandra**
-- Cloud & Infrastructure: **Docker, Kubernetes, OpenShift, Helm, GCP**
-- Testing & Tools: **JUnit, Mockito, Selenium, Git, GitLab, Jira**
-- Build Tools: **Maven, Gradle**
+### Programming Languages
+- Java (Java 8+), TypeScript, Go
+
+### Frameworks
+- Spring (Spring Boot, Spring MVC, Spring Security, WebFlux), Angular, React, Thymeleaf
+
+### API Development
+- RESTful APIs, WebSocket, GraphQL, OpenAPI, Swagger
+
+### Databases
+- Relational: Oracle, MySQL, PostgreSQL
+- NoSQL: MongoDB, Redis, Cassandra
+
+### Authentication & Security
+- JWT, OAuth2, IDaaS (Identity-as-a-Service)
+
+### Event-Driven Architecture
+- Apache Kafka, Avro
+
+### Cloud & Infrastructure
+- Docker, Kubernetes, OpenShift, Helm, Terraform, GCP
+
+### Testing & Tools
+- JUnit, Mockito, Selenium, Git, GitLab, Jira
+
+### Build & Deployment Tools
+- Maven, Gradle, Jenkins
+
+### Logging & Monitoring
+- Log4j2, ELK Stack
 
 ---
 
@@ -70,16 +93,20 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 
 ## GastroTrack API
 
-**GastroTrack API** is a backend application designed to help individuals with gastritis track food intake and symptoms, identify triggers, and improve dietary habits. This project showcases my skills in building scalable APIs and modern backend systems.
+**GastroTrack API** is a backend application designed to help individuals with gastritis track food intake and symptoms, identify triggers, and improve dietary habits. This project demonstrates my expertise in building scalable APIs, secure authentication mechanisms, and modern backend systems.
 
 ### Technologies
-- **Backend:** Java 17, Spring Boot, PostgreSQL, Redis
+- **Backend:** Java 17, Spring Boot (Security, Data JPA), PostgreSQL, Redis
+- **Authentication & Security:** JWT, OAuth2
 - **Tools:** Docker Compose, Log4j2, Lombok, OpenAPI, Swagger
+- **Build Tools:** Maven
 
 ### Features
-- RESTful APIs for meal and symptom tracking
-- Redis caching for fast data retrieval
-- Scalable architecture with PostgreSQL for structured data storage
+- **RESTful APIs:** For meal and symptom tracking
+- **Redis Caching:** To ensure fast data retrieval and enhance performance
+- **Scalable Architecture:** PostgreSQL for structured and reliable data storage
+- **Secure Authentication:** Integrated JWT for user authentication and role-based access control
+- **OpenAPI Integration:** Comprehensive API documentation using Swagger and OpenAPI
 
 ### Repository
 [View on GitHub](https://github.com/DarioCM/gastrotrack-api)
