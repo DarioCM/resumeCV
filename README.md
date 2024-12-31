@@ -96,7 +96,7 @@ I am a seasoned software engineer with over 9 years of experience specializing i
 **GastroTrack API** is a backend application designed to help individuals with gastritis track food intake and symptoms, identify triggers, and improve dietary habits. This project demonstrates my expertise in building scalable APIs, secure authentication mechanisms, and modern backend systems.
 
 ### Technologies
-- **Backend:** Java 17, Spring Boot (Security, Data JPA), PostgreSQL, Redis
+- **Backend: Java 17, Spring Boot 3.4.0** (Security, Data JPA), PostgreSQL, Redis
 - **Authentication & Security:** JWT, OAuth2
 - **Tools:** Docker Compose, Log4j2, Lombok, OpenAPI, Swagger
 - **Build Tools:** Maven
