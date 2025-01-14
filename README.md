@@ -17,7 +17,7 @@ Relocating to **Jacksonville Metropolitan Area, Florida, USA**, in **March 2025*
 - **API & Security:** REST, GraphQL, JWT, OAuth2  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **Cloud & Tools:** Docker, Kubernetes, OpenShift, GCP  
-- **Testing:** JUnit, Mockito, TestContainers  
+- Testing: JUnit, Mockito, TestContainers  
 ---
 
 ## 📂 **Featured Project**
@@ -82,5 +82,7 @@ A **backend system** designed to help individuals with **gastritis** track food 
 - **LinkedIn**: [Carlos Dario Castaneda Mendoza](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza)  
 - **GitHub**: [DarioCM](https://github.com/DarioCM)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)
+<img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" />
+
