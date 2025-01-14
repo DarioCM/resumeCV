@@ -17,7 +17,8 @@ Relocating to **Jacksonville Metropolitan Area, Florida, USA**, in **March 2025*
 - **API & Security:** REST, GraphQL, JWT, OAuth2  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **Cloud & Tools:** Docker, Kubernetes, OpenShift, GCP  
-- Testing: JUnit, Mockito, TestContainers  
+- Testing: JUnit, Mockito, TestContainers
+  
 ---
 
 ## 📂 **Featured Project**
