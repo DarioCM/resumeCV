@@ -21,30 +21,6 @@ Relocating to **Jacksonville Metropolitan Area, Florida, USA**, in **March 2025*
   
 ---
 
-## 📂 **Featured Project**
-
-### **GastroTrack API**  
-A **backend system** designed to help individuals with **gastritis** track food intake and symptoms, identify triggers, and improve dietary habits. This project is built with scalability, security, and performance in mind.
-
-#### **Technologies**
-- **Java 17, Spring Boot 3.4.0**  
-- **PostgreSQL, Redis** for data storage and caching  
-- **JWT-based authentication**  
-- **Docker Compose** for containerized environments  
-- **OpenAPI & Swagger** for API documentation  
-
-#### **Features**
-- **Meal and Symptom Tracking**: RESTful APIs to log food intake, symptoms, and notes  
-- **Redis Caching**: Accelerated data retrieval  
-- **Scalable Architecture**: PostgreSQL database for reliable data storage  
-- **Secure Authentication**: JWT and OAuth2 for user security  
-- **AI Integration** (planned): Personalized diagnostics and meal recommendations using **Spring AI**
-
-#### **GitHub Repository**  
-[Visit Repository](https://github.com/DarioCM/gastrotrack-api)
-
----
-
 ## 💼 **Experience**
 
 ### **IBM – USAA** | Java & Web Technologies (Oct 2021 - Present)  
@@ -68,6 +44,30 @@ A **backend system** designed to help individuals with **gastritis** track food 
 - **INTERALIA (Coca Cola)**: Developed secure APIs and interactive components using **Spring**, **Hibernate**, and **JQuery**.  
 - **BASSOL (Banamex Citi)**: Created PAY/COB modules with **JSP**, **Spring**, and **Hibernate**.  
 - **Santander**: Migrated **BancaSphere** platform components and implemented backend solutions using **WebSphere** and **JDBC**.  
+
+---
+
+## 📂 **Featured Project**
+
+### **GastroTrack API**  
+A **backend system** designed to help individuals with **gastritis** track food intake and symptoms, identify triggers, and improve dietary habits. This project is built with scalability, security, and performance in mind.
+
+#### **Technologies**
+- **Java 17, Spring Boot 3.4.0**  
+- **PostgreSQL, Redis** for data storage and caching  
+- **JWT-based authentication**  
+- **Docker Compose** for containerized environments  
+- **OpenAPI & Swagger** for API documentation  
+
+#### **Features**
+- **Meal and Symptom Tracking**: RESTful APIs to log food intake, symptoms, and notes  
+- **Redis Caching**: Accelerated data retrieval  
+- **Scalable Architecture**: PostgreSQL database for reliable data storage  
+- **Secure Authentication**: JWT and OAuth2 for user security  
+- **AI Integration** (planned): Personalized diagnostics and meal recommendations using **Spring AI**
+
+#### **GitHub Repository**  
+[Visit Repository](https://github.com/DarioCM/gastrotrack-api)
 
 ---
 
