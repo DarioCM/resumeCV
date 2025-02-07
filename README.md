@@ -12,13 +12,14 @@ Relocating to **Jacksonville Metropolitan Area, Florida, USA**, in **March 2025*
 
 ## 🛠 **Skills**
 
-- **Programming:** Java (8+), TypeScript, Go  
+- **Programming:** Java (8+), TypeScript, Kotlin  
 - **Frameworks:** Spring Boot, Angular, React  
 - **API & Security:** REST, GraphQL, JWT, OAuth2  
 - **Databases:** PostgreSQL, MongoDB, Redis  
-- **Cloud & Tools:** Docker, Kubernetes, OpenShift, GCP  
-- Testing: JUnit, Mockito, TestContainers
-  
+- **Cloud & Tools:** Docker, Kubernetes, OpenShift, GCP, Elasticsearch (ELK)  
+- **Event Streaming:** Kafka  
+- **Testing:** JUnit, Mockito, TestContainers  
+
 ---
 
 ## 💼 **Experience**
@@ -37,6 +38,7 @@ Relocating to **Jacksonville Metropolitan Area, Florida, USA**, in **March 2025*
 - Implemented **secure APIs** with cryptographic methods, ensuring compliance with **SAT regulations**.  
 - Upgraded the user interface with **Angular** and optimized backend queries using **Elasticsearch**.  
 - Developed and maintained **SOAP-based services** with **JAX-RS** for SaaS applications.  
+
 **Technologies**: Java, Spring Boot, Angular, Elasticsearch, JAX-RS, SOAP, SaaS  
 
 ### **Earlier Experience**  
@@ -52,22 +54,32 @@ Relocating to **Jacksonville Metropolitan Area, Florida, USA**, in **March 2025*
 ### **GastroTrack API**  
 A **backend system** designed to help individuals with **gastritis** track food intake and symptoms, identify triggers, and improve dietary habits. This project is built with scalability, security, and performance in mind.
 
-#### **Technologies**
+#### **Backend Technologies**
 - **Java 17, Spring Boot 3.4.0**  
 - **PostgreSQL, Redis** for data storage and caching  
 - **JWT-based authentication**  
 - **Docker Compose** for containerized environments  
 - **OpenAPI & Swagger** for API documentation  
 
+#### **Frontend (GastroTrack Web)**
+A **responsive and user-friendly frontend** designed for GastroTrack using **Angular 19 + TailwindCSS**.  
+- **Developed with Angular 19** for a fast and modern web application.  
+- **TailwindCSS** for an elegant and responsive UI.  
+- **REST API integration** with the GastroTrack backend.  
+- **User Authentication** using JWT and OAuth2.  
+- **State Management** using RxJS and NgRx for efficient UI updates.  
+- **Deployment-ready** with Docker support for easy containerization.  
+
 #### **Features**
 - **Meal and Symptom Tracking**: RESTful APIs to log food intake, symptoms, and notes  
 - **Redis Caching**: Accelerated data retrieval  
 - **Scalable Architecture**: PostgreSQL database for reliable data storage  
 - **Secure Authentication**: JWT and OAuth2 for user security  
-- **AI Integration** (planned): Personalized diagnostics and meal recommendations using **Spring AI**
+- **AI Integration** (planned): Personalized diagnostics and meal recommendations using **Spring AI**  
 
 #### **GitHub Repository**  
-[Visit Repository](https://github.com/DarioCM/gastrotrack-api)
+- **Backend**: [Visit Repository](https://github.com/DarioCM/gastrotrack-api)  
+- **Frontend**: [Visit Repository](https://github.com/DarioCM/gastrotrack-frontend)  
 
 ---
 
@@ -86,4 +98,3 @@ A **backend system** designed to help individuals with **gastritis** track food 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)
 <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" />
-
