@@ -6,7 +6,6 @@
 
 I am a seasoned **Senior Software Engineer** with over **9 years of experience**, specializing in **Java** and **Spring Boot**. I have expertise in developing **scalable microservices**, optimizing **cloud-native solutions**, and leveraging **event-driven architectures** to create reliable and high-performing systems. My passion lies in solving real-world problems with modern backend technologies and AI-powered solutions.
 
-Relocating to **Jacksonville Metropolitan Area, Florida, USA**, in **March 2025**. I hold a **Green Card** and am legally authorized to work in the United States.
 
 ---
 
