@@ -91,9 +91,9 @@ A **responsive and user-friendly frontend** designed for GastroTrack using **Ang
 ## 📞 **Contact Information**
 
 - **Email**: carlos.castaneda.dev@gmail.com  
-- **LinkedIn**: [Carlos Dario Castaneda Mendoza](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza)  
+- **LinkedIn**: [Carlos Dario Castaneda Mendoza](https://www.linkedin.com/in/carlos-castaneda-dev)  
 - **GitHub**: [DarioCM](https://github.com/DarioCM)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dario-castaneda-mendoza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-castaneda-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/DarioCM)
 <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" />
