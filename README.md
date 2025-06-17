@@ -4,7 +4,9 @@
 
 ## 👤 **Summary**
 
-I am a seasoned **Senior Software Engineer** with over **9 years of experience**, specializing in **Java** and **Spring Boot**. I have expertise in developing **scalable microservices**, optimizing **cloud-native solutions**, and leveraging **event-driven architectures** to create reliable and high-performing systems. My passion lies in solving real-world problems with modern backend technologies and AI-powered solutions.
+Senior Java Software Engineer with 10+ years of experience building scalable, microservices-based, and cloud-native applications, primarily across financial services, insurance, and healthcare domains. Specialized in Java, Spring Boot, Kubernetes, and AWS/GCP with strong expertise in designing RESTful APIs for synchronous communication and Kafka-based systems for asynchronous messaging. Proficient in API security (JWT, OAuth) and CI/CD automation. Skilled in upgrading and modernizing backend services for improved performance and security.
+
+While my core focus is backend engineering, I also bring experience in frontend development using TypeScript, Angular, and React to deliver end-to-end solutions.
 
 💼 **U.S. Work Authorized (Green Card Holder)** – open to remote or on-site roles across the United States.
 
