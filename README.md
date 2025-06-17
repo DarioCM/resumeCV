@@ -4,11 +4,11 @@
 
 ## 👤 **Summary**
 
-Senior Java Software Engineer with 10+ years of experience building scalable, microservices-based, and cloud-native applications, primarily across financial services, insurance, and healthcare domains. Specialized in Java, Spring Boot, Kubernetes, and AWS/GCP with strong expertise in designing RESTful APIs for synchronous communication and Kafka-based systems for asynchronous messaging. Proficient in API security (JWT, OAuth) and CI/CD automation. Skilled in upgrading and modernizing backend services for improved performance and security.
+**Senior Java Software Engineer** with **10+ years of experience** building **scalable**, **microservices-based**, and **cloud-native applications**, primarily across **financial services**, **insurance**, and **healthcare** domains. Specialized in **Java**, **Spring Boot**, **Kubernetes**, and **AWS/GCP** with strong expertise in designing **RESTful APIs** for synchronous communication and **Kafka-based systems** for asynchronous messaging. Proficient in **API security** (**JWT**, **OAuth**) and **CI/CD automation**. Skilled in upgrading and modernizing backend services for improved performance and security.
 
-While my core focus is backend engineering, I also bring experience in frontend development using TypeScript, Angular, and React to deliver end-to-end solutions.
+While my core focus is **backend engineering**, I also bring experience in **frontend development** using **TypeScript**, **Angular**, and **React** to deliver **end-to-end solutions**.
 
-💼 **U.S. Work Authorized (Green Card Holder)** – open to remote or on-site roles across the United States.
+💼 **U.S. Work Authorized (Green Card Holder)** – open to **remote or on-site roles across the United States**.
 
 ---
 
