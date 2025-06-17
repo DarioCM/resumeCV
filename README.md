@@ -1,6 +1,6 @@
 # **Carlos Dario Castaneda Mendoza**
 
-[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe)](https://github.com/DarioCM/resumeCV/raw/main/Resume-Carlos-Dario-Castaneda-Mendoza.pdf)
+[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe)](https://github.com/DarioCM/resumeCV/raw/main/Carlos_Castaneda_Resume.pdf)
 
 ## 👤 **Summary**
 
